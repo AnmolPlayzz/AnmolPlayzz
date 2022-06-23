@@ -11,6 +11,7 @@
     <a href="https://anmolplayzz.tk">
         <img alt="GitHub followers" src="https://img.shields.io/badge/My-website-green?style=plastic">
     </a>
+    <img alt="GitHub views" src="https://komarev.com/ghpvc/?username=anmolplayzz&style=plastic">
 </p>
 
 <h2>😃 Socials</h2>
