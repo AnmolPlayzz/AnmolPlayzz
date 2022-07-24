@@ -31,7 +31,7 @@
 
 | Tool      | Use |
 | ----------- | ----------- |
-| VS Code      | JavaScript, HTML, CSS       |
+| VS Code      | JavaScript, HTML, CSS, Python       |
 | Android studio   | Dart (Flutter)        |
 | Adobe Illustrator   | Icons & Illustrations        |
 | Adobe After Effects   | Animation        |
