@@ -31,7 +31,8 @@
 
 | Tool      | Use |
 | ----------- | ----------- |
-| VS Code      | JavaScript, HTML, CSS, Python       |
+| VS Code      | JavaScript, HTML, CSS       |
+| JetBrains PyCharm Community | Python |
 | Adobe Illustrator   | Icons & Illustrations        |
 | Adobe After Effects   | Animation        |
 
