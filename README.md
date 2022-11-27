@@ -14,6 +14,12 @@
     <img alt="GitHub views" src="https://komarev.com/ghpvc/?username=anmolplayzz&style=plastic">
 </p>
 
+
+
+<p align="center">
+    <img alt="Skills" src="https://skillicons.dev/icons?i=js,html,css,py,md,nodejs,mongodb,svelte,git,docker,bots,vscode,pr,ae,ai,discord,github,linux&perline=9">
+</p>
+
 <h2>😃 Socials</h2>
 <h3>Check out my socials:</h3>
 <li>
