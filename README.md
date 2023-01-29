@@ -19,8 +19,7 @@
 <p align="center">
     <a href="https://anmolplayzz.tk" target="_blank">
         <img alt="Skills" src="https://skillicons.dev/icons?i=js,html,css,py,md,nodejs,mongodb,svelte,git,docker,bots,vscode,androidstudio,idea,pr,ae,ai,discord,github,linux&perline=10">
-    </a>![image](https://user-images.githubusercontent.com/74979911/215346765-346aa05c-9848-48d3-9eb9-584e11eb870d.png)
-
+    </a>
 </p>
 
 <h2>😃 Socials</h2>
