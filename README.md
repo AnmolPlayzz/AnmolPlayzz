@@ -17,8 +17,8 @@
 
 
 <p align="center">
-    <a href="https://anmolplayzz.tk" target="_blank">
-        <img alt="Skills" src="https://skillicons.dev/icons?i=js,html,css,py,md,nodejs,mongodb,svelte,git,docker,bots,vscode,androidstudio,idea,pr,ae,ai,discord,github,linux&perline=10">
+    <a href="https://anmolplayzz.netlify.app/" target="_blank">
+        <img alt="Skills" src="https://skillicons.dev/icons?i=js,html,css,py,md,nodejs,mongodb,react,git,docker,bots,vscode,webstorm,idea,pr,ae,ai,discord,github,linux&perline=10">
     </a>
 </p>
 
