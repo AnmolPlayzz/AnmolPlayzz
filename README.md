@@ -8,7 +8,7 @@
 <p align="center">A newbie frontend developer, Discord bot dev and motion graphic designer who lives in India.</p>
 <p align="center">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/anmolplayzz?style=plastic">
-    <a href="https://anmolplayzz.netlify.app/">
+    <a href="https://anmolplayzz.vercel.app/">
         <img alt="GitHub followers" src="https://img.shields.io/badge/My-website-green?style=plastic">
     </a>
     <img alt="GitHub views" src="https://komarev.com/ghpvc/?username=anmolplayzz&style=plastic">
