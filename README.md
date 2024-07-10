@@ -18,7 +18,7 @@
 
 <p align="center">
     <a href="https://anmolplayzz.netlify.app/" target="_blank">
-        <img alt="Skills" src="https://skillicons.dev/icons?i=js,html,css,py,md,nodejs,mongodb,react,git,docker,bots,vscode,webstorm,idea,pr,ae,ai,discord,github,linux&perline=10">
+        <img alt="Skills" src="https://skillicons.dev/icons?i=js,ts,html,css,py,md,nodejs,mongodb,mysql,postgres,netlify,vercel,react,next,git,docker,bots,vscode,webstorm,pycharm,pr,ae,ai,discord,github,linux&perline=13">
     </a>
 </p>
 
