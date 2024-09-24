@@ -33,7 +33,7 @@
 <a href="https://twitter.com/AnmolPlayzz">Twitter</a>
 </li>
 <li>
-<a href="https://reddit.com/u/AnmolPlayzz">Reddit</a>
+<a href="https://reddit.com/u/AnmolPlayz">Reddit</a>
 </li>
 <br>
 <br>
