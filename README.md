@@ -49,15 +49,11 @@
 <br>
 <br>
 <h2>🎀 My stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=anmolplayzz&theme=tokyonight">
+<img src="./profile/stats.svg">
 <br>
 <br>
 <h2>✨ Most used languages</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmolplayzz&theme=tokyonight">
-<br>
-<br>
-<h2>🏆 Achievements</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=anmolplayzz&theme=tokyonight">
+<img src="./profile/top-langs.svg">
 <br>
 <br>
 
